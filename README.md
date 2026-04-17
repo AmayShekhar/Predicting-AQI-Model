@@ -207,10 +207,3 @@ This solution demonstrates how data-driven techniques can help tackle real-world
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
----
-
-## ⭐ If you found this useful, give it a star!
